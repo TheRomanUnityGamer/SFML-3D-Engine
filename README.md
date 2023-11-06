@@ -3,3 +3,5 @@ It was difficult to make but it works!
 It using wireframe graphics, sort alghoritm works badly.
 # How to build
 Install msys2,open it,install gcc and make,go to folder with "build.sh" file,type "./build.sh" in msys2 to build.
+https://www.sfml-dev.org/files/SFML-2.5.1-windows-gcc-7.3.0-mingw-32-bit.zip a sfml, copy "SFML-2.5.1" folder to C:/
+https://deac-riga.dl.sourceforge.net/project/mingw-w64/Toolchains%20targetting%20Win32/Personal%20Builds/mingw-builds/7.3.0/threds-posix/dwarf/i686-7.3.0-release-posix-dwarf-rt_v5-rev0.7z a mingw32 for sfml, copy "mingw32" folder to C:/
